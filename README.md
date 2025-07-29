@@ -11,7 +11,6 @@
 
 
 ### 🌐 Connect with me:
-### 🌐 Connect with me:
 
 <p align="left">
   <a href="https://www.linkedin.com/in/sony-yendluri/" target="_blank">
