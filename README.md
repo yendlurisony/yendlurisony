@@ -12,12 +12,14 @@
 
 ### 🌐 Connect with me:
 
-<p align="left">
+<div style="display: flex; gap: 10px; align-items: center;">
+  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/sony-yendluri/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
   </a>
-  
+
+  <!-- Email -->
   <a href="mailto:sonyyendluriyendluri@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-</p>
+</div>
